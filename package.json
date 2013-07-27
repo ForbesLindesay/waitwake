@@ -1,5 +1,5 @@
 {
-  "author": "Forbes Lindesay (www.jepso.com)",
+  "author": "ForbesLindesay",
   "name": "waitwake",
   "description": "WaitWake lets you wait for an event to happen again, even if it has already happened once, then wakes you up",
   "version": "0.0.0",
@@ -9,11 +9,12 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "jshint":"*",
-    "vows":"*"
+    "jshint": "*",
+    "vows": "*"
   },
   "optionalDependencies": {},
   "engines": {
     "node": "*"
-  }
+  },
+  "license": "MIT"
 }
