@@ -2,6 +2,8 @@
 waitwake
 ========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/waitwake.svg)](https://greenkeeper.io/)
+
 WaitWake lets you wait for an event to happen again, even if it has already happened once, then wakes you up
 
 As many functions as you wanted can be added to a channel by name, then you can wake them all up by calling wake on that channel name.
