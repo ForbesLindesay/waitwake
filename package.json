@@ -9,7 +9,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "jshint": "*",
+    "jshint": ">=2.9.5",
     "vows": "*"
   },
   "optionalDependencies": {},
